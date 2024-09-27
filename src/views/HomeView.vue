@@ -57,7 +57,7 @@
     background-color: #f2f2f2;
   }
   img {
-            width: 150px; /* Ajuste o tamanho conforme necessário */
+            width: 150px; 
             animation: pularGirar 2s infinite;
         }
 
